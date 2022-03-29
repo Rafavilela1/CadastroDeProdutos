@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <Produto ID="1">
+        <Categoria>Alimento</Categoria>
+        <Nome>Banana</Nome>
+        <Marca>
+            <NomeMarca>Sem Marca</NomeMarca>
+            <Preco>25.0</Preco>
+        </Marca>
+    </Produto>
+    <Produto ID="1">
+        <Categoria>Maçã</Categoria>
+        <Nome>baixinho</Nome>
+        <Marca>
+            <NomeMarca>1</NomeMarca>
+            <Preco>1.0</Preco>
+        </Marca>
+    </Produto>
+    <Produto ID="1">
+        <Categoria>Eletrodomestico</Categoria>
+        <Nome>Geladeira</Nome>
+        <Marca>
+            <NomeMarca>Eletrolux</NomeMarca>
+            <Preco>1599.99</Preco>
+        </Marca>
+    </Produto>
+    <Produto ID="1">
+        <Categoria>Alimento</Categoria>
+        <Nome>Cenoura</Nome>
+        <Marca>
+            <NomeMarca>Baixinho</NomeMarca>
+            <Preco>12.99</Preco>
+        </Marca>
+    </Produto>
+    <Produto ID="1">
+        <Categoria>alimento</Categoria>
+        <Nome>Pão</Nome>
+        <Marca>
+            <NomeMarca>Panco</NomeMarca>
+            <Preco>10.99</Preco>
+        </Marca>
+    </Produto>
+</Produtos>

@@ -1,0 +1,5 @@
+Categoria = Alimento, Nome = Banana, Marca = Sem Marca, Preço = 25.0
+Categoria = Maçã, Nome = baixinho, Marca = 1, Preço = 1.0
+Categoria = Eletrodomestico, Nome = Geladeira, Marca = Eletrolux, Preço = 1599.99
+Categoria = Alimento, Nome = Cenoura, Marca = Baixinho, Preço = 12.99
+Categoria = alimento, Nome = Pão, Marca = Panco, Preço = 10.99
